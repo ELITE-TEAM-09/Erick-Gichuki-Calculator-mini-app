@@ -1,4 +1,4 @@
-# Erick-Gichuki---Calculator-mini-app
+# Erick-Gichuki Calculator-mini-app
 ## How to run the app
 - Run ```python eric\'s_calc.py``` on your terminal to start working.
 - If the user inputs non-numeric it prints error telling you to enter valid numbers.
